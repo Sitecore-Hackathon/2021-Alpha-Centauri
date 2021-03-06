@@ -43,9 +43,9 @@ The module overwrites the existing styles/scripts themes inject process of SXA u
 No configuration changes needed.
 
 ## Usage instructions
-Any page that will inherit from the new template will have a selection list. See image below:
+Any page that will inherit from the new template will have a selection list. Once script/style themes are chosen those will be the ones that are rendered on the page as long as the checkbox to overide the base themes is checked. SXA defaults will apply if not. See image below:
 ![Selectors Checkbox Screenshot](docs/images/screenshotofselectorcheckbox.png?raw=true "Selectors Checkbox Screenshot")
-Once script/style themes are chosen those will be the ones that are rendered on the page as long as the checkbox to overide the base themes is checked. SXA defaults will apply if not.
+
 Pages will inherit from the Page Design template that was created for this change.
 ![Page Design Template](docs/images/pagedesigntemplate.png?raw=true "Page Design Template")
 
