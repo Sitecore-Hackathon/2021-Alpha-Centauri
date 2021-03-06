@@ -24,8 +24,7 @@ Please note this assumes you have an SXA store tenant installed which is require
 1. Install the Sitecore package install-packages\AlphaCentauri-SitecoreHackathon-2021.zip using the installation package installer in Sitecore. Overwrite the existing items.
 2. Publish the site in your Sitecore instance.
 3. Verify in the bin folder of the site you have the following dlls. AlphaCentauri.XA.Foundation.Theming.dll
-4. We have included a page to use as a test. Go to [yoursiteurl]/page.
-5. Please follow the video link above for how to use instructions if needed. 
+4. Please follow the video link above for how to use instructions if needed. 
 
 ### Configuration
 No configuration changes needed.
@@ -37,7 +36,7 @@ Any page that will inherit from the new template will have a selection list. Onc
 Pages will inherit from the Page Design template that was created for this change.
 ![Page Design Template](docs/images/pagedesigntemplate.png?raw=true "Page Design Template")
 
-Pages will inherit from the Page Design template that was created for this change.
+Current default page theme.
 ![Default Page Theme](docs/images/defaultpagethemes.png?raw=true "Default Page Theme")
 
 ## Comments
