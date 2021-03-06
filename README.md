@@ -12,9 +12,8 @@ For this year's Sitecore Hackathon we chose to do the best enhancement for SXA c
 The module overwrites the existing styles/scripts themes inject process of SXA using a theme selector. Inserting the needed scripts and styles for pages leaving out the unneeded ones for pages. Users have the option to add and remove any script/style themes for any page type and also specific pages. If nothing is chosen then the page will be defaulted to the standard SXA styles/scripts.
 
 ## Video link
-⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
-
-⟹ [Replace this Video link](#video-link)
+You can find our video at:
+https://youtu.be/aKOQfb838dM
 
 ## Pre-requisites and Dependencies
 - SXA latest version for Sitecore 10.1 installed.
@@ -22,10 +21,11 @@ The module overwrites the existing styles/scripts themes inject process of SXA u
 ## Installation instructions
 Please note this assumes you have an SXA store tenant installed which is required for an SXA site.
 
-1. Install the Sitecore package _______.zip using the installation package installer in Sitecore. Overwrite the existing items.
+1. Install the Sitecore package install-packages\AlphaCentauri-SitecoreHackathon-2021.zip using the installation package installer in Sitecore. Overwrite the existing items.
 2. Publish the site in your Sitecore instance.
-3. Verify in the bin folder you have the following dlls. ______
-4. We have included a page to use as a test. Go to [yoursiteurl]/____page goes here.
+3. Verify in the bin folder of the site you have the following dlls. AlphaCentauri.XA.Foundation.Theming.dll
+4. We have included a page to use as a test. Go to [yoursiteurl]/page.
+5. Please follow the video link above for how to use instructions if needed. 
 
 ### Configuration
 No configuration changes needed.
@@ -36,13 +36,6 @@ Any page that will inherit from the new template will have a selection list. Onc
 
 Pages will inherit from the Page Design template that was created for this change.
 ![Page Design Template](docs/images/pagedesigntemplate.png?raw=true "Page Design Template")
-
-⟹ Provide documentation about your module, how do the users use your module, where are things located, what do the icons mean, are there any secret shortcuts etc.
-
-Include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
-
-![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
-
 
 ## Comments
 Please follow the video that covers all the different scenarios. Thank you for a great Hackathon.
