@@ -37,5 +37,8 @@ Any page that will inherit from the new template will have a selection list. Onc
 Pages will inherit from the Page Design template that was created for this change.
 ![Page Design Template](docs/images/pagedesigntemplate.png?raw=true "Page Design Template")
 
+Pages will inherit from the Page Design template that was created for this change.
+![Default Page Theme](docs/images/defaultpagethemes.png?raw=true "Default Page Theme")
+
 ## Comments
 Please follow the video that covers all the different scenarios. Thank you for a great Hackathon.
